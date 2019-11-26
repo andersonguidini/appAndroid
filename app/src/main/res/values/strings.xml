@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Catálogo Jogos</string>
+    <string name="nomeJogo">Nome</string>
+    <string name="preco">Preço</string>
+    <string name="year">Ano de lançamento</string>
+    <string name="studio">Estúdio</string>
+    <string name="save">Salvar</string>
+    <string name="empty_nome_message">O nome do jogo não pode ser vazio</string>
+    <string name="empty_year_message">O ano de lançamento não pode ser vazio</string>
+    <string name="empty_price_message">O preço do jogo não pode ser vazio</string>
+    <string name="empty_studio_message">O estúdio do jogo não pode ser vazio</string>
+    <string name="save_success_message">Jogo cadastrado com sucesso</string>
+</resources>
